@@ -1,0 +1,5 @@
+a = input("Digite o primeiro número: ")
+a = int(a) 
+b = input("Digite o segundo número: ") 
+b = int(b) 
+print("O resultado da soma é: " + str(a + b))
